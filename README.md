@@ -114,14 +114,12 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to 🅃🅁🄴🅇-🄼🄳 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to 𝐄𝐍𝐙𝐎 𝐌𝐃 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
 
-The 🅃🅁🄴🅇-🄼🄳 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The 𝐄𝐍𝐙𝐎 𝐌𝐃 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *🅃🅁🄴🅇-🄼🄳*  to enhance your Whatsapp more enjoyable
-☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 🅃🅁🄴🅇-🄼🄳
-.
+Enjoy the diverse features of the *𝐄𝐍𝐙𝐎 𝐌𝐃*  to enhance your Whatsapp more enjoyable ☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐄𝐍𝐙𝐎 𝐌𝐃
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
