@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_TREX-MD UPTIME  IS: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_ENZO-MD UPTIME  IS: ${runtime(process.uptime())}_*`) 
 
    
 
@@ -57,7 +57,7 @@ let linkkk = `https://api.screenshotmachine.com/?key=c04d3a&url=${encodeURICompo
 
 let res = await getBuffer(linkkk);
 
-await zk.sendMessage(dest, { image: res, caption: '𝑾𝒆𝒃 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝒃𝒚 *𝐓𝐫𝐞𝐱 𝐌𝐝*'}, { quoted: ms });
+await zk.sendMessage(dest, { image: res, caption: '𝑾𝒆𝒃 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝒃𝒚 *enzo 𝐌𝐝*'}, { quoted: ms });
 
 
 }
