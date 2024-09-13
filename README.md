@@ -99,11 +99,10 @@ HOW TO REACH THE OWNER?
 
 <table>
   <tr>
-    <td>🄱🄴🅁🄰</td>
+    <td>ENZO</td>
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/254740007567?"><img src="https://i.ibb.co/0fgBYmD/Photo-1726167332358.png" width="180"</td>
     <td><a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img src="https://i.ibb.co/4jBhn13/Socialthumb.jpg" width="180"</td>
   </tr>
 </table>
