@@ -25,7 +25,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
       const gitdata = `*𝐇𝐞𝐲 𝐒𝐬𝐮𝐩 𝐏𝐚𝐥 🤗 𝐢𝐭𝐬 𝐬𝐞𝐞𝐦𝐬 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞 𝐄𝐍𝐙𝐎 𝐌𝐃,  *\n  
       *𝐀𝐥𝐥 𝐘𝐨𝐮 𝐍𝐞𝐞𝐝 𝐓𝐨 𝐊𝐧𝐨𝐰 𝐢𝐬 𝐇𝐞𝐫𝐞.*
 ╭─────────༻༻༻────────
-││ *𝐒𝐞𝐬𝐬𝐢𝐨𝐧* https://enzopairing-8f1dbe8ceff3.herokuapp.com/
+││ *𝐒𝐞𝐬𝐬𝐢𝐨𝐧* https://enzo-md-sessions-generator.onrender.com/
 ││ *𝐑𝐞𝐩𝐨:* ${data.html_url}
 ││ *𝐒𝐭𝐚𝐫𝐬:* ${repoInfo.stars}
 ││ *𝐅𝐨𝐫𝐤𝐬:* ${repoInfo.forks}
