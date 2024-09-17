@@ -33,7 +33,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
 ││ *𝐔𝐩𝐝𝐚𝐭𝐞𝐝: ${repoInfo.lastUpdate}
 ││ *𝐎𝐰𝐧𝐞𝐫:* 𝐄𝐍𝐙𝐎 
 ││ *𝐂𝐡𝐚𝐧𝐧𝐞𝐥:* https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
-││ *𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:* https://Instagram.com/@_BERA_TECH
+││ *𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:* https://www.instagram.com/enzokip254?igsh=YzljYTk1ODg3Zg==
 ╰─────────༻༻༻────────
           *𝐄𝐍𝐙𝐎 𝐌𝐃*`;
 
