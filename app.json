@@ -2,7 +2,7 @@
 "name":"𝐄𝐍𝐙𝐎 𝐌𝐃",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/0fgBYmD/Photo-1726167332358.png",
+  "logo":"https://i.ibb.co/ZVB1RKQ/IMG-20240917-WA0293-2.jpg",
   "repository":"https://github.com/Cheroo51/ENZO-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/0fgBYmD/Photo-1726167332358.png",
+      "value":"https://i.ibb.co/ZVB1RKQ/IMG-20240917-WA0293-2.jpg",
       "required":false
        
      },
