@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x. ')
+repondre(' https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D. ')
 
 }
     });
