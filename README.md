@@ -43,14 +43,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
 - <br>
-<a href='https://enzo-md-sessions-generator.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://enzo-md-sessions-generator-wcj5.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 - 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Cheroo51/ENZO-MD &template=https://github.com/Cheroo51/ENZO-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Cheroo51/ENZO-MD &template=https://github.com/Cheroo51/ENZO-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Toyota" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
