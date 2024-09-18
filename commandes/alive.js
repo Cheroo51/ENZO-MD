@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *𝐓𝐫𝐞𝐱*`
+ *ENZO*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("𝐄𝐍𝐙𝐎 𝐌𝐃") ; return};
 
-      await   repondre("*https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
-         repondre("𝐄𝐍𝐙𝐎 𝐌𝐃 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
+      await   repondre("*https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D");
+         repondre("ENZO MD 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
      }
  } else {
 
