@@ -38,12 +38,12 @@ zokou({
           image: { url: videos[0].thumbnail },
           caption: `*ENZO-MD SONG PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│🌟 *Title:* ${apiResult.result.title}
+│⏺️ *Quality:* ${apiResult.result.type}
+│🗣️ *Duration:* ${videos[0].timestamp}
+│🛑 *Viewers:* ${videos[0].views}
+│💺 *Uploaded:* ${videos[0].ago}
+│🏦 *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
@@ -104,12 +104,12 @@ zokou({
           image: { url: videos[0].thumbnail },
           caption: `*ENZO-MD SONG PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│⭐ *Title:* ${apiResult.result.title}
+│❣️ *Quality:* ${apiResult.result.type}
+│🗣️ *Duration:* ${videos[0].timestamp}
+│😉 *Viewers:* ${videos[0].views}
+│🫣 *Uploaded:* ${videos[0].ago}
+│🏦 *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
@@ -171,12 +171,12 @@ zokou({
           image: { url: videos[0].thumbnail },
           caption: `*ENZO-MD VIDEO PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│🌅 *Title:* ${apiResult.result.title}
+│😉 *Quality:* ${apiResult.result.type}
+│😂 *Duration:* ${videos[0].timestamp}
+│♥️ *Viewers:* ${videos[0].views}
+│⏺️ *Uploaded:* ${videos[0].ago}
+│🏧 *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
@@ -237,12 +237,12 @@ zokou({
           image: { url: videos[0].thumbnail },
           caption: `*ENZO-MD VIDEO PLAYER*\n
 ╭───────────────◆
-│⿻ *Title:* ${apiResult.result.title}
-│⿻ *Quality:* ${apiResult.result.type}
-│⿻ *Duration:* ${videos[0].timestamp}
-│⿻ *Viewers:* ${videos[0].views}
-│⿻ *Uploaded:* ${videos[0].ago}
-│⿻ *Artist:* ${videos[0].author.name}
+│🌟 *Title:* ${apiResult.result.title}
+│🥰 *Quality:* ${apiResult.result.type}
+│❣️ *Duration:* ${videos[0].timestamp}
+│❣️ *Viewers:* ${videos[0].views}
+│🛑 *Uploaded:* ${videos[0].ago}
+│🐥 *Artist:* ${videos[0].author.name}
 ╰────────────────◆
 ⦿ *Direct YtLink:* ${videoUrl}`
         };
