@@ -103,7 +103,7 @@ HOW TO REACH THE OWNER?
     
   </tr>
   <tr>
-    <td><a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img src="https://i.ibb.co/p2Pb829/Screenshot-20240820-172338-Whats-App.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img src="https://i.ibb.co/xmZ205D/Screenshot-20240919-212724-Whats-App-Business.jpg" width="180"</td>
   </tr>
 </table>
 
