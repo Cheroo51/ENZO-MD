@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/Cheroo51/ENZO-MD';
-  const img = 'https://i.ibb.co/DL47fdT/IMG-20240912-WA0046.jpg';
+  const img = 'https://i.ibb.co/9nYbpzY/Screenshot-20240917-114546-Whats-App.jpg';
 
 
   try {
